@@ -4,6 +4,6 @@ int main()
 	char a[];
 	cout<<"hello Enter something";
         cin>>"a[]";
-	return 0;
+	return 0; //hero
 
 }	
